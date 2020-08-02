@@ -1,6 +1,5 @@
 node_modules/
 *error.log
 scratchings.js
-dist/
 .env
 coverage/
